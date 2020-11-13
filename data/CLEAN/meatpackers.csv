@@ -1,0 +1,87 @@
+facility,city,state,federal_id,cattle,swine
+mt mckinley meat and sausage co,palmer,ak,20891,TRUE,TRUE
+cargill beef packers inc,fresno,ca,354,TRUE,FALSE
+clausen meat packing inc,turlock,ca,325,FALSE,TRUE
+yosemite foods,stockton,ca,548,FALSE,TRUE
+brush meat processors,brush,co,44999,TRUE,FALSE
+cargill meat solutions,morgan,co,86r,TRUE,FALSE
+double j meat packing inc,pierce,co,322,TRUE,FALSE
+swift beef company,greeley,co,969,TRUE,FALSE
+fpl foods llc,augusta,ga,m332,TRUE,FALSE
+independent meat co,twin falls,id,00226m,FALSE,TRUE
+cs beef packers,kuna,id,630,TRUE,FALSE
+idabeef,burley,id,m45948,TRUE,FALSE
+calihan pork processors,peoria,il,6775,FALSE,TRUE
+momence packing company,momence,il,1647 m,FALSE,TRUE
+peoria packing inc,road grant park,il,m21651,FALSE,TRUE
+pork king packing inc,marengo,il,2926 m,FALSE,TRUE
+swift pork company,beardstown,il,85b,FALSE,TRUE
+tyson fresh meats inc,hillsdale,il,245j,TRUE,FALSE
+ruwaldt packing company,hobart,in,05502m,FALSE,TRUE
+tyson fresh meats,logansport,in,2441,FALSE,TRUE
+trieagle provisions,tippecanoe,in,17496m,FALSE,TRUE
+redwood farms meat processing,estherville,ia,21898,FALSE,TRUE
+swift pork company,marshalltown,ia,m3s,FALSE,TRUE
+lynch bbq company,decorah,ia,19717,FALSE,TRUE
+siouxpreme packing co,sioux center,ia,m5537,FALSE,TRUE
+tyson fresh meats storm,lake,ia,244,FALSE,TRUE
+verschoor meats,sioux city,ia,363,FALSE,TRUE
+w  g marketing,sydney,ia,6752,FALSE,TRUE
+banner creek llc,holton,ks,5536,FALSE,TRUE
+fb purnell sausage company inc,simpsonville,ky,m7464,FALSE,TRUE
+jbs swift and company,louisville,ky,m995,FALSE,TRUE
+adams farm slaughterhouse,athol,ma,5497,TRUE,TRUE
+bef foods inc,hillsdale,mi,952,FALSE,TRUE
+clemens food group,coldwater,mi,m791c,FALSE,TRUE
+jbs plainwell inc,plainwell,mi,562m-m,TRUE,FALSE
+weltin meat packing inc,minden city,mi,100061,TRUE,TRUE
+swift pork company,worthington,mn,3w,FALSE,TRUE
+long prairie packing,long prairie,mn,253m,TRUE,FALSE
+lorentz meats,cannon falls,mn,21207 m/i,TRUE,FALSE
+whites wholesale meats,ronan,mt,7717,TRUE,FALSE
+gibbon packing llc,gibbon,ne,5511,TRUE,FALSE
+jf oneill packing co,omaha,ne,0889a,TRUE,FALSE
+swift beef co jbs usa,omaha,ne,532,TRUE,FALSE
+american halal meat,newark,nj,20403,TRUE,FALSE
+bierig brothers inc,vineland,nj,5430,TRUE,FALSE
+dealaman enterprises inc,warren,nj,7562,FALSE,TRUE
+ena meat packing,patterson,nj,1778,TRUE,FALSE
+champlain beef,whitehall,ny,8547,TRUE,TRUE
+gold medal packing,rome,ny,17965,TRUE,TRUE
+parks family meats llc,warsaw,nc,18296a,FALSE,TRUE
+the pork company,warsaw,nc,20608,FALSE,TRUE
+north american bison coop,new rockford,nd,18859,TRUE,FALSE
+bob evans foods inc,xenia,oh,6785,FALSE,TRUE
+jh routh packing co,sandusky,oh,m00818,FALSE,TRUE
+ohio farms packing,creston,oh,34569,TRUE,FALSE
+pioneer packing co inc,bowling green,oh,372,FALSE,TRUE
+carlton packing co,carlton,or,9228,FALSE,TRUE
+masami foods inc,klamath falls,or,m0791,TRUE,TRUE
+cargill wyalusing,wyalusing,pa,9400,TRUE,FALSE
+clemens food group llc,hatfield,pa,m0791,FALSE,TRUE
+herfurth meats,gilbert,pa,9465,FALSE,TRUE
+nicholas meat llc,loganton,pa,4465,TRUE,FALSE
+p  n packing inc,wyalusing,pa,4763,TRUE,FALSE
+usa pork packers inc,hazleton,pa,20760,FALSE,TRUE
+marcho farms inc,souderton,pa,m7857,TRUE,FALSE
+leidys premium meats,souderon,pa,m9520,FALSE,TRUE
+jbs souderton,souderton,pa,m1311,TRUE,FALSE
+brown packing,gaffney,sc,m1085,TRUE,FALSE
+new angus llcdemkota,aberdeen,sd,45471,TRUE,FALSE
+james meat company,cookeville,tn,8066,FALSE,TRUE
+the hillshire brands company,newbern,tn,8080,FALSE,TRUE
+swaggerty sausage co inc,kodak,tn,110-8314,FALSE,TRUE
+wamplers farm sausage,lenoir city,tn,9065,FALSE,TRUE
+williams sausage co,union city,tn,7455,FALSE,TRUE
+southeastern provision,bean station,tn,8327,TRUE,FALSE
+jbs swift  co,hyrum,ut,628,TRUE,FALSE
+schenk packing co inc,stanwood,wa,6056,TRUE,FALSE
+tyson fresh meats,wallula,wa,9268,TRUE,FALSE
+walts wholesale meats inc,woodland,wa,6423,TRUE,FALSE
+washington beef producers,toppenish,wa,235,TRUE,FALSE
+abbyland pork pack,curtiss,wi,15896,FALSE,TRUE
+american foods group llc,green bay,wi,410,TRUE,FALSE
+crescent meats and catering llc,NA,NA,40326,FALSE,FALSE
+jbs packerland,green bay,wi,562,TRUE,FALSE
+perry way foods llc,watertown,wi,m1962/p1962,FALSE,TRUE
+conrath quality meats,conrath,wi,40326,FALSE,FALSE

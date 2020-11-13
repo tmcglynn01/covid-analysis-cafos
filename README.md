@@ -21,3 +21,5 @@ Overall, there should be a strong correlation of total COVID cases per capita an
 * [1] http://www.milwaukeeindependent.com/syndicated/legacy-milwaukees-redlining-continues-shape-racial-segregation/
 * [2] https://www.sciencedirect.com/science/article/pii/S0160412018320750
 * [3] https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics
+
+https://data.world/dataforacause/concentrated-animal-feeding-operations-cafo
